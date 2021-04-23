@@ -1,0 +1,7 @@
+Alignment/_ss:Vertical,Borders,Font/_ss:FontName,Font/_x:CharSet,Font/_x:Family,Font/_ss:Size,Font/_ss:Color,Interior,Protection,_ss:ID,_ss:Name,NumberFormat/_ss:Format,_ss:Parent,Font/_ss:Bold
+Bottom,,Calibri,238,Swiss,12,#000000,,,Default,Normal,,,
+,,,,,,,,,s62,Default,,,
+,,,,,,,,,s68,,Fixed,s62,
+,,,,,,,,,s69,,yyyy\-mm\-dd;@,s62,
+,,,,,,,,,s70,,,s62,
+,,Calibri,,Swiss,12,#000000,,,s71,,Fixed,s62,1
